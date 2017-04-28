@@ -18,6 +18,8 @@
         </activity>
         <activity android:name=".dynamicAnimation.SpringAnimationActivity">
         </activity>
+        <activity android:name=".dynamicAnimation.SpringAnimationActivity2">
+        </activity>
     </application>
 
 </manifest>

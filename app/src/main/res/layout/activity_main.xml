@@ -25,7 +25,13 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="SpringAnimation"
-                android:text="SpringAnimation"
+                android:text="SpringAnimation官方例子"
+                android:textAllCaps="false"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="SpringAnimation2"
+                android:text="SpringAnimation小球弹跳"
                 android:textAllCaps="false"/>
         </LinearLayout>
     </ScrollView>
